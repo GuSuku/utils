@@ -23,6 +23,7 @@
       myPackages)
 
 (package-initialize)
+;; For all steps, see: https://github.com/jorgenschaefer/elpy/wiki/Installation
 (elpy-enable) 
 
 ;; BASIC CUSTOMIZATION
